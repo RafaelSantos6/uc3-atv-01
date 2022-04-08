@@ -1,0 +1,17 @@
+body{
+    background-color:aliceblue;
+    font-family: cursive
+}
+
+h1 {
+    color: red;
+}
+.centro {
+    text-align: center;
+}
+h2 {
+    color:rgb(255, 0, 0);
+}
+img {
+    max-width: 330px;
+}

@@ -1,2 +1,10 @@
-# uc3-atv-01
-atividade 1 das aulas do git/github.
+#atividade 01
+
+Repositorio para aprender github e melhorar minhas abilidades com github
+
+## Senac joinville
+
+### professor:gabriel caixeta
+
+### Aluno:Rafael Cristiano Ricetti Dos Santos
+
